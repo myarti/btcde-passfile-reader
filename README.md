@@ -2,6 +2,10 @@
 
 A python script for parsing a pdf file consisting of passwords provided by [Bitcoin.de](https://www.bitcoin.de) when enabled the two-factor authentication over a hashed password table.
 
+## Requirements
+* Python 2.7 or Python 3
+* PyPDF2 (pip install pypdf2)
+
 ## Usage
 
 ### Python 2.7
