@@ -15,9 +15,9 @@ A python script for parsing a pdf file consisting of passwords provided by [Bitc
 
 -
 
-### Example usage:
+### Example usage (commandline):
 ```
-> btc_validate.py
+> btcde_validate.py
 > Code: B6 D2 A3 N8   <= Code received after logging in
 > k p * 7             <= Answer code to be passed to bitcoin.de
 ```
